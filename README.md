@@ -9,12 +9,12 @@ It's already a mess to upkeep.
 Controls
 --------
 
-Player 1: 
-    Move paddle up: W
-    Move paddle down: S
+Player 1:   
+    * Move paddle up: W  
+    * Move paddle down: S
 
-Player 2:
-    Move paddle up: O
-    Move paddle down: L
+Player 2:  
+    * Move paddle up: O
+    * Move paddle down: L
 
 Reset/Continue: Spacebar
