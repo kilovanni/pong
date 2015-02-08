@@ -17,7 +17,7 @@ Player 2:
         Move paddle up: O  
         Move paddle down: L  
 
-Reset/Continue: Spacebar
+Reset/Continue: Spacebar  
 Exit: Esc
 
 Rules
