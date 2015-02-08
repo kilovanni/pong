@@ -18,3 +18,9 @@ Player 2:
         Move paddle down: L  
 
 Reset/Continue: Spacebar
+Exit: Esc
+
+Rules
+-----
+
+It's Pong. First player to reach 5 points wins.
