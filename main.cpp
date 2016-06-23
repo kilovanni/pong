@@ -56,7 +56,7 @@ int main(void)
 
     // Game text
     sf::Font font;
-    font.loadFromFile("/usr/share/fonts/opentype/cabin/Cabin-Regular.otf");
+    font.loadFromFile("/usr/share/fonts/TTF/comic.ttf");
 
     string player1Message = "Player 1: ";
     string player2Message = "Player 2: ";
